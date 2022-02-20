@@ -18,4 +18,13 @@ func main(){
 	//小练习：用一个语句排版输出姓名年龄籍贯住址，并对应一个数据
 
 	fmt.Println("姓名\t年龄\t籍贯\t住址\njohn\t15\t北京\t成都")
+
+	//打印心形效果
+	fmt.Println("\t·\t\t\t\t\t\t\t·")
+	fmt.Println("·\t\t·\t\tI love Golang\t\t·\t\t·")
+	fmt.Println("\t·\t\t\t\t\t\t\t·")
+	fmt.Println("\t\t·\t\t\t\t\t·")
+	fmt.Println("\t\t\t·\t\t\t·")
+	fmt.Println("\t\t\t\t·\t·")
+
 }
